@@ -65,8 +65,8 @@ I've spent two decades doing what I love: making technology accessible to Italia
 
 **🎸 Feeder Italia Community** (2005 - Present)
 - Founded Italy's first official Feeder fan community  
-- Consulted with artist management on Italian tour routing (2016-2017)
-- Organized meet-and-greets and Milan concert coordination (2017)
+- Consulted with artist management on Italian tour routing (2010-2011)
+- Organized meet-and-greets and Milan concert coordination (2011)
 - Designed official merchandise worn publicly by band members
 - Maintained 20-year direct relationship with artist
 
