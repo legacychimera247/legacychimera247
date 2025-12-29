@@ -34,6 +34,7 @@ I've spent two decades doing what I love: making technology accessible to Italia
   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)" alt="Markdown" width="50" height="50"/>
 </p>
 
 ---
