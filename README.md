@@ -55,7 +55,7 @@ I've spent two decades doing what I love: making technology accessible to Italia
 | **Musikilo** | Sailfish OS | Italian Translation | Music streaming player |
 | **Seachest** | Sailfish OS | Italian Localization | Dropbox client |
 | **Telegram Client** | Sailfish OS | Italian Contribution | Messaging platform |
-| **Harbour-fernweh** | Sailfish OS | Italian Translation | Flickr client |
+| **Fernweh** | Sailfish OS | Italian Translation | Flickr client |
 | **Nanofiles** | Sailfish OS | Italian Localization | File manager |
 | **Clockwork** | Sailfish OS | Italian Translation | Launcher customization |
 
