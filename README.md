@@ -2,7 +2,7 @@
 
 ![Typing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-My Site:
+## My Site:
 https://luca.kurokawa.de
 
 ## 🎮 Italian Localization Specialist | Community Builder | Open Source Contributor
