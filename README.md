@@ -2,6 +2,8 @@
 
 ![Typing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
+https://luca.kurokawa.de
+
 ## 🎮 Italian Localization Specialist | Community Builder | Open Source Contributor
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-rastelli/)
